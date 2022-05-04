@@ -1,7 +1,4 @@
 # recipe-tracking-app
-
-Recipe Tracking App Using React
-
 A mock recipe-tracking CRUD app interface with a focus on rendering and state management using React.
 
 This project was a great way to practice the following:
